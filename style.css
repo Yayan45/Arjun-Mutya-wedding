@@ -15,7 +15,7 @@ html, body {
   color: var(--pink);
 }
 .hero{
-  background-image: url(img/1.jpg);
+  background-image: url(img/5.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -45,22 +45,22 @@ html, body {
 .judul h1 {
   font-family:  cursive;
   font-size: 40px !important;
-  color:black;
-  text-shadow: whitesmoke 5px 5px 5px;
+  color:white;
+  text-shadow: black 5px 5px 5px;
   font-weight:700;
 }
 .judul h6{
   font-size: 1.5rem;
   font-weight: bold;
   text-decoration: underline;
-  color: black;
-  text-shadow: whitesmoke 5px 5px 5px;
+  color: white;
+  text-shadow: black 5px 5px 5px;
 }
 .for {
   background-color: rgb(255 255 255 / 10%);
   backdrop-filter: blur(5px);
-  color: black;
-  text-shadow: whitesmoke 1.5px 1.5px 10px;
+  color: white;
+  text-shadow: black 1.5px 1.5px 10px;
   padding: 1rem;
   border-radius: 2rem;
   -webkit-border-radius: 2rem;
@@ -90,8 +90,8 @@ html, body {
 }
 
 .hero a {
-  color:white;
-  background-color: rgb(23, 22, 22);
+  color:black;
+  background-color: whitesmoke;
   box-shadow: var(--shadow);
   border-radius:12px;
   -webkit-border-radius:12px;
@@ -101,8 +101,8 @@ html, body {
 }
 
 .hero a:hover {
-  background-color: white;
-  color: black;
+  background-color: black;
+  color: white;
   border-radius: 12px;
   -webkit-border-radius: 12px;
   -moz-border-radius: 12px;
@@ -569,7 +569,7 @@ footer li {
 
   .hero{
     content: '';
-    background-image: url(img/1.jpg);
+    background-image: url(img/5.jpg);
     background-size: cover; 
   }
   .simply-countdown > .simply-section {
@@ -625,7 +625,7 @@ footer li {
     font-size: 20px;
   }
   .hero{
-    background-image: url(img/1.jpg);
+    background-image: url(img/5.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
