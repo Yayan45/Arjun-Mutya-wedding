@@ -433,11 +433,11 @@ footer li {
   line-height: 0;
 }
 .carousel-control-prev{
-  color: white;
+  color: goldenrod !important;
   opacity: 1 !important;
 }
 .carousel-control-next{
-  color: white;
+  color: goldenrod !important;
   opacity: 1 !important;
 
 }
